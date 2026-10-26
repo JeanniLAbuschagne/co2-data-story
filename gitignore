@@ -1,0 +1,5 @@
+# downloaded automatically by the script
+owid-co2-data.csv
+__pycache__/
+.venv/
+.DS_Store
